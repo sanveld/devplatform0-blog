@@ -1,0 +1,26 @@
+{
+  "name": "idp-blog",
+  "version": "1.0.0",
+  "description": "Internal Developer Platform Blog",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "idp",
+    "internal-developer-platform",
+    "kubernetes",
+    "crossplane",
+    "azure",
+    "gitops"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.45",
+    "vue": "^3.4.21"
+  }
+}
