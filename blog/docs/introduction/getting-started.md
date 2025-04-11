@@ -79,13 +79,7 @@ kubectl get secret my-first-database-conn -n my-team -o yaml
 
 ## Next Steps
 
-- Explore available [Resource Types](/guide/resource-types)
-- Learn about [GitOps Workflow](/architecture/gitops-workflow)
-- Understand [Resource Abstractions](/architecture/resource-abstractions)
+
 
 ## Getting Help
 
-If you encounter any issues, please:
-1. Check the [Troubleshooting](/guide/troubleshooting) guide
-2. Open an issue in the GitHub repository
-3. Contact the platform team on Slack at #idp-support
