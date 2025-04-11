@@ -37,6 +37,3 @@ The Internal Developer Platform (IDP) is built using several key components and 
 ## Implementation Details
 
 For specific implementation details, check out:
-- [AKS Control Plane](/architecture/aks-control-plane)
-- [Resource Abstractions](/architecture/resource-abstractions)
-- [GitOps Workflow](/architecture/gitops-workflow)
