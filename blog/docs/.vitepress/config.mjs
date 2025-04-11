@@ -6,7 +6,7 @@ export default defineConfig({
   description: 'Documentation site for the Internal Developer Platform PoC',
   
   // Base path for GitHub Pages
-  base: '/devplatform-2/',
+  base: '/devplatform0-blog/',
   
   themeConfig: {
     logo: '/logo.svg',
