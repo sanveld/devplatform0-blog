@@ -4,7 +4,7 @@ The Internal Developer Platform (IDP) is built using several key components and 
 
 ## Core Components
 
-![Architecture Diagram](/architecture-diagram.png)
+
 
 ### Control Plane
 
