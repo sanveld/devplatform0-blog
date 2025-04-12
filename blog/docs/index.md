@@ -1,12 +1,9 @@
 ---
 layout: home
 hero:
-  name: "Internal Developer Platform"
-  text: "Azure-based IDP PoC"
+  name: "devplatform0"
   tagline: A self-service platform for developers to request infrastructure resources
-  image:
-    src: /logo.svg
-    alt: IDP Logo
+  nameTemplate: '<span class="purple-gradient">devplatform0</span>'
   actions:
     - theme: brand
       text: Get Started
