@@ -16,8 +16,7 @@ hero:
       link: https://github.com/yourusername/devplatform-2
 
 features:
-  - icon: 🚀
-    title: GitOps Workflow
+  - title: GitOps Workflow
     details: Infrastructure resource requests through Git commits and pull requests
   - icon: 🔄
     title: Crossplane Integration
