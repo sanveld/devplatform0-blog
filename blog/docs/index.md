@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: "devplatform0"
+  name: "DevPlatform0"
   tagline: A self-service platform for developers to request infrastructure resources
   actions:
     - theme: brand
@@ -17,13 +17,10 @@ hero:
 features:
   - title: GitOps Workflow
     details: Infrastructure resource requests through Git commits and pull requests
-  - icon: 🔄
-    title: Crossplane Integration
+  - title: Crossplane Integration
     details: Kubernetes-based control plane for Azure resources
-  - icon: 🧩
-    title: Resource Abstractions
+  - title: Resource Abstractions
     details: Simplified interfaces for complex cloud resources
-  - icon: 🔧
-    title: Infrastructure as Code
+  - title: Infrastructure as Code
     details: Everything defined as code for reproducibility and automation
 ---
