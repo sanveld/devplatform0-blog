@@ -1,4 +1,33 @@
 :root {
+  /* Hero gradient (existing) */
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #e96443, #904e95);
+  
+  /* Site color scheme */
+  --vp-c-white: #FFFFFF;
+  --vp-c-lavender: #D174D2;
+  --vp-c-coral: #E0563F;
+  --vp-c-slate: #3F567F;
+  --vp-c-eggplant: #412653;
+  
+  /* Brand colors */
+  --vp-c-brand: #E0563F;
+  --vp-c-brand-light: #D174D2;
+  --vp-c-brand-lighter: #e085e1;
+  --vp-c-brand-dark: #3F567F;
+  --vp-c-brand-darker: #412653;
+  
+  /* Text colors */
+  --vp-c-text-1: #412653;
+  --vp-c-text-2: #3F567F;
+  --vp-c-text-3: rgba(60, 60, 67, 0.78);
+  
+  /* Button colors */
+  --vp-button-brand-bg: var(--vp-c-coral);
+  --vp-button-brand-hover-bg: #c44c37;
+  --vp-button-brand-active-bg: var(--vp-c-eggplant);
+  
+  /* Border colors */
+  --vp-c-border: rgba(63, 86, 127, 0.2);
+  --vp-c-divider: rgba(63, 86, 127, 0.2);
 }
