@@ -3,7 +3,6 @@ layout: home
 hero:
   name: "devplatform0"
   tagline: A self-service platform for developers to request infrastructure resources
-  nameTemplate: '<span style="background: linear-gradient(to right, #4169e1, #8a2be2); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">devplatform0</span>'
   actions:
     - theme: brand
       text: Get Started
